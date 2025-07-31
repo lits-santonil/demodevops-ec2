@@ -8,7 +8,7 @@ public class DevopsController {
 
     @GetMapping("/hello")
     public String hello(){
-        return "Hello from Docker + EC2X! ";
+        return "Hello from Docker + EC2Xxxx! ";
     }
 
 }
